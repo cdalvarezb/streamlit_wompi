@@ -5,3 +5,4 @@ plotly
 numpy
 streamlit
 numpy
+psycopg2
